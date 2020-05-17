@@ -1,12 +1,57 @@
 package com.company.devices;
 
-public class Car {
+
+import com.company.creatures.Human;
+import com.company.Salleable;
+
+public abstract class Car extends Device {
 
 
     public String model;
     public String producer;
     public String color;
     public int price = 300;
+
+    public abstract String refuel();
+
+    public Salleable salleable = new Salleable() {
+        @Override
+        public void sell(Human seller, Human buyer, Double price) {
+            if(buyer.getCash()>=price) {
+                if (seller.getPet() == null) {
+                    System.out.println("Nie mam zwierzęcia na sprzedaż");
+                } else {
+                    System.out.println("Mam zwierzę na sprzedaż");
+
+                }
+
+                if (seller.getMyCar() == null) {
+                    System.out.println("Nie mam samochodu na sprzedaż");
+                } else {
+                    System.out.println("Mam samochód na sprzedaż");
+                    buyer.setCash(-price);
+                    buyer.setMyCar(seller.getMyCar());
+                    seller.setCash(+price);
+                }
+
+                if (seller.getPhone() == null) {
+                    System.out.println("Nie mam telefonu na sprzedaż");
+                } else {
+                    System.out.println("Mam telefon na sprzedaż");
+                }
+            }else {
+                System.out.println("Nie masz hajsu");
+            }
+
+
+        }
+
+    };
+    @Override
+    public boolean turnOn() {
+        System.out.println("Włącz");
+        return true;
+    }
 
     public String toString() {
         return model + " " + price + " " + color + " " + producer;

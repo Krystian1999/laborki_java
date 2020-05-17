@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49627e91-a62f-4031-8b26-dd424cf0d715" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Salleable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/creatures/Edbile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/creatures/FarmAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/creatures/Feedable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/creatures/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/devices/Disel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/devices/Electric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/devices/LPG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/devices/URL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zadania java/com/company/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zadania java/com/company/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zadania java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zadania java/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zadania java/com/company/devices/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zadania java/com/company/devices/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zadania java/com/company/devices/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zadania java/com/company/devices/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creatures/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creatures/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/devices/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/devices/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/devices/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/devices/Phone.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c2yKn7h6mEL0EPE4vKxLdzJeVu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="zadania java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49627e91-a62f-4031-8b26-dd424cf0d715" name="Default Changelist" comment="" />
+      <created>1589740921943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589740921943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1589750236964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589750236964" />
+    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1589750236963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589750236963" />
+    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1589750236963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589750236963" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1589750236964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589750236964" />
+  </component>
+</project>
